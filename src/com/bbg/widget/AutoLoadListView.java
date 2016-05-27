@@ -1,4 +1,4 @@
-package com.bubugao.yhglobal.ui.widget;
+package com.bbg.widget;
 
 import android.content.Context;
 import android.graphics.drawable.AnimationDrawable;

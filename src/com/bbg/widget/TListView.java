@@ -1,4 +1,4 @@
-package com.bubugao.yhglobal.ui.widget;
+package com.bbg.widget;
 
 import java.util.ArrayList;
 import java.util.List;
